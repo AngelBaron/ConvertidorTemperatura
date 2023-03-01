@@ -2,14 +2,7 @@ package convertidortemperatura;
 
 import java.util.Scanner;
 
-/**
- *
- * @author maryse
- *
- * Este programa convierte temperaturas de grados Fahrenheit a grados Celsius
- *
- *
- */
+
 public class ConvertidorTemperatura {
              double PUNTO_CONGELACION = 32.0;
          double FACTOR_CONVERSION = 5.0 / 9.0;
